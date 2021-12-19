@@ -1,0 +1,37 @@
+
+.card{
+    width: 350px;
+    background: rgb(245,247,249);
+    border-radius: 10px;
+}
+
+.text{
+    padding: 20px;
+    text-align: center;
+    line-height: 30px;
+}
+.text1{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    line-height: 40px;
+}
+
+button{
+    background: brown;
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+.cardCart{
+    width: 650px;
+    display: flex;
+    gap: 1rem;
+    margin-top: 20px;
+    background-color: antiquewhite;
+}

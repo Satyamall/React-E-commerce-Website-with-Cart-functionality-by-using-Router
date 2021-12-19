@@ -1,0 +1,192 @@
+{
+  "products": [
+    {
+      "men": [
+        {
+          "id": 1,
+          "name": "Atlas Sweatpaint",
+          "price": 600,
+          "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/TCM1471-03611_041d0a0d-18b6-41e3-ad2b-8244c5ba5016_600x600.jpg?v=1632266161"
+        },
+        {
+          "id": 2,
+          "name": "Treefleece 1/4 Button Hoodie",
+          "price": 800,
+          "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/TCM4392-20181_600x600.jpg?v=1637571722"
+        },
+        {
+          "id": 3,
+          "name": "TreeFleece Golden Spruce Hoodie",
+          "price": 1000,
+          "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/TCM3468-03462_600x600.jpg?v=1637866054"
+        },
+        {
+          "id": 4,
+          "name": "Cloud Shell Mid-Length Unisex",
+          "price": 3000,
+          "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/FW21_OuterWear_Day156142_600x600.jpg?v=1632257342"
+        },
+        {
+          "id": 5,
+          "name": "Treeline Canvas Unisex Jacket",
+          "price": 4000,
+          "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/tcu3537-0012_2_600x600.jpg?v=1632257403"
+        },
+        {
+          "id": 6,
+          "name": "Juniper T-Shirt EV2",
+          "price": 300,
+          "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/TCM1761-04511_600x600.jpg?v=1611260975"
+        },
+        {
+          "id": 7,
+          "name": "Heavy Weight Flannel Shirt",
+          "price": 500,
+          "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/TCM2526-2092_600x600.jpg?v=1632267790"
+        },
+        {
+          "id": 8,
+          "name": "Corduroy Asher Shacket",
+          "price": 650,
+          "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/TCM3772-2038_4_600x600.jpg?v=1627600802"
+        }
+      ]
+    },
+    {
+      "women": [
+        {
+          "id": 9,
+          "name": "Cropped TreeFleece Hoodie",
+          "price": 1200,
+          "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/TCW4161-0164-Edit_600x600.jpg?v=1620066415"
+        },
+        {
+          "id": 10,
+          "name": "TreeFleece Chevron Crew",
+          "price": 1000,
+          "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/TCW3648-2102_4_600x600.jpg?v=1632251757"
+        },
+        {
+          "id": 11,
+          "name": "TreeFleece Bamone Sweatpant",
+          "price": 1400,
+          "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/TCW3173-0164_600x600.jpg?v=1632265994"
+        },
+        {
+          "id": 12,
+          "name": "Fleece Crew Dress",
+          "price": 1300,
+          "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/TCW2451-0451_0201d355-e863-4c76-b9c3-d1d6ec7fe2ae_600x600.jpg?v=1638215576"
+        },
+        {
+          "id": 13,
+          "name": "TreeFleece Crew",
+          "price": 1600,
+          "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/TCW2454-14841_600x600.jpg?v=1637896604"
+        },
+        {
+          "id": 14,
+          "name": "Highline Wool Cardigan",
+          "price": 1800,
+          "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/TCW2507-20591.jg_600x600.jpg?v=1628200905"
+        },
+        {
+          "id": 15,
+          "name": "Highline Turtleneck Dress",
+          "price": 1800,
+          "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/TCW3681-2059-1--Edit_1_600x600.jpg?v=1633385024"
+        },
+        {
+          "id": 16,
+          "name": "Highline Shortsleeve Cardigan",
+          "price": 900,
+          "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/TCW2953-14803-Edit_600x600.jpg?v=1617998069"
+        }
+      ]
+    },
+    {
+      "kid": [
+        {
+          "id": 17,
+          "name": "Kids Lorax Crew",
+          "price": 400,
+          "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/KCU4838-0164-1_600x600.jpg?v=1634833527"
+        },
+        {
+          "id": 18,
+          "name": "Kids Lorax Take Care T-Shirt",
+          "price": 200,
+          "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/KCU4837-0859-1_600x600.jpg?v=1634833503"
+        },
+        {
+          "id": 19,
+          "name": "Kids Classic Hoodie",
+          "price": 500,
+          "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/KCU3967-Edit_703x893_bb24181f-346e-45e0-ab7b-ecb104af749e_600x600.gif?v=1606366172"
+        },
+        {
+          "id": 20,
+          "name": "Kids Juniper T-Shirt",
+          "price": 100,
+          "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/KCU3519_2_grande_938281ff-bfa0-4764-8f1b-c96dc6a9bd0f_600x600.jpg?v=1603143908"
+        },
+        {
+          "id": 21,
+          "name": "Kids Classic Sweatpants",
+          "price": 350,
+          "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/KCU3547-0859-Edit_600x600.jpg?v=1616084408"
+        },
+        {
+          "id": 22,
+          "name": "Kids Treefleece Crew",
+          "price": 450,
+          "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/KCU4682-0164-0140_600x600.jpg?v=1634056623"
+        },
+        {
+          "id": 23,
+          "name": "Kids National Geographic Border Crew",
+          "price": 550,
+          "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/KCU4453-223038673_600x600.jpg?v=1628369316"
+        },
+        {
+          "id": 24,
+          "name": "Kids National Geographic Redwood T-Shirt",
+          "price": 250,
+          "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/KCU4455-222938912_600x600.jpg?v=1628369307"
+        }
+      ]
+    }
+  ],
+  "cartItems": [
+    {
+      "id": 1,
+      "name": "Atlas Sweatpaint",
+      "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/TCM1471-03611_041d0a0d-18b6-41e3-ad2b-8244c5ba5016_600x600.jpg?v=1632266161",
+      "price": 600
+    },
+    {
+      "name": "Juniper T-Shirt EV2",
+      "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/TCM1761-04511_600x600.jpg?v=1611260975",
+      "price": 300,
+      "id": 2
+    },
+    {
+      "name": "TreeFleece Bamone Sweatpant",
+      "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/TCW3173-0164_600x600.jpg?v=1632265994",
+      "price": 1400,
+      "id": 4
+    },
+    {
+      "name": "Fleece Crew Dress",
+      "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/TCW2451-0451_0201d355-e863-4c76-b9c3-d1d6ec7fe2ae_600x600.jpg?v=1638215576",
+      "price": 1300,
+      "id": 5
+    },
+    {
+      "name": "Kids Lorax Crew",
+      "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/KCU4838-0164-1_600x600.jpg?v=1634833527",
+      "price": 400,
+      "id": 6
+    }
+  ]
+}
