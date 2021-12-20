@@ -199,6 +199,18 @@
       "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/KCU4455-222938912_600x600.jpg?v=1628369307",
       "price": 250,
       "id": 9
+    },
+    {
+      "name": "Heavy Weight Flannel Shirt",
+      "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/TCM2526-2092_600x600.jpg?v=1632267790",
+      "price": 500,
+      "id": 10
+    },
+    {
+      "name": "Corduroy Asher Shacket",
+      "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/TCM3772-2038_4_600x600.jpg?v=1627600802",
+      "price": 650,
+      "id": 11
     }
   ]
 }

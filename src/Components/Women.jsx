@@ -11,7 +11,7 @@ export default function Women(){
     const [isLoading,setIsloading]=useState(true);
 
     const getData=()=>{
-        return axios.get("http://localhost:3000/products")
+        return axios.get("https://json-server-e-commerce-api.herokuapp.com/products")
     }
 
     useEffect(()=>{
@@ -34,7 +34,7 @@ export default function Women(){
             price: price,
         }
         const config={
-            url: "http://localhost:3000/cartItems",
+            url: "https://json-server-e-commerce-api.herokuapp.com/cartItems",
             method: "post",
             data: payload
         } 

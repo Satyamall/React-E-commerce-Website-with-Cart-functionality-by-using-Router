@@ -7,7 +7,7 @@ import Pagination from "../Card/Pagination";
 export default function Cart() {
 
     const getItemCart = () => {
-        return axios.get(`http://localhost:3000/cartItems`)
+        return axios.get(`https://json-server-e-commerce-api.herokuapp.com/cartItems`)
     }
 
     const [data, setData] = useState([]);
@@ -39,7 +39,7 @@ export default function Cart() {
 
     const handleRemove = async ({ id }) => {
         const config = {
-            url: `http://localhost:3000/cartItems/${id}`,
+            url: `https://json-server-e-commerce-api.herokuapp.com/cartItems/${id}`,
             method: "delete"
         }
         await axios(config);
