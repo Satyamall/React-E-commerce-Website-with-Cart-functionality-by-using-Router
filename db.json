@@ -177,16 +177,28 @@
       "id": 4
     },
     {
-      "name": "Fleece Crew Dress",
-      "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/TCW2451-0451_0201d355-e863-4c76-b9c3-d1d6ec7fe2ae_600x600.jpg?v=1638215576",
-      "price": 1300,
-      "id": 5
-    },
-    {
       "name": "Kids Lorax Crew",
       "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/KCU4838-0164-1_600x600.jpg?v=1634833527",
       "price": 400,
       "id": 6
+    },
+    {
+      "name": "Cloud Shell Mid-Length Unisex",
+      "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/FW21_OuterWear_Day156142_600x600.jpg?v=1632257342",
+      "price": 3000,
+      "id": 7
+    },
+    {
+      "name": "TreeFleece Crew",
+      "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/TCW2454-14841_600x600.jpg?v=1637896604",
+      "price": 1600,
+      "id": 8
+    },
+    {
+      "name": "Kids National Geographic Redwood T-Shirt",
+      "image": "https://cdn2.shopify.com/s/files/1/2341/3995/products/KCU4455-222938912_600x600.jpg?v=1628369307",
+      "price": 250,
+      "id": 9
     }
   ]
 }

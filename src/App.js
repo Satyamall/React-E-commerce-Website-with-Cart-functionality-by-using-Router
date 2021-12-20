@@ -4,7 +4,7 @@ import Footer from './Navbar/Footer';
 import Navbar from './Navbar/Navbar';
 import AllRoutes from './Routes/AllRoutes';
 
-function App() {
+function App(){
   return (
     <div className="App">
       <Navbar/>
