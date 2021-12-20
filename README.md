@@ -76,4 +76,5 @@ https://json-server-e-commerce-api.herokuapp.com/
 
 ### Netlify Deploy link
 Website Draft URL: [https://61c01e20e5ba5d78cc9d9f76--react-e-commerce-website-with-cart.netlify.app]
+Website URL: [https://react-e-commerce-website-with-cart.netlify.app]
 
