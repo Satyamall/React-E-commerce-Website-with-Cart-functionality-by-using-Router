@@ -1,74 +1,32 @@
-# Getting Started with Create React App
+# About Project:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created by me and all idea's from Ten Tree E-commerce website and created by me with my logic for cart and data API. Ten Tree is a Canada E-commerce website.
 
-## Available Scripts
+View Project: <a href="https://react-e-commerce-website-with-cart.netlify.app">Click here</a>
 
-In the project directory, you can run:
+# Tech Stack:
+ - React
+ - Router
+ - CSS
+ - GitHub
+ - API
+ - Json Server
 
-### `npm start`
+# Pictorial View of Project:
+![Screenshot (347)](https://user-images.githubusercontent.com/80479635/161206098-8729fb38-8a68-45fc-b6af-1e8a1f5606d3.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
+![Screenshot (348)](https://user-images.githubusercontent.com/80479635/161206114-6994405b-5a95-4dcb-a5ad-ac0aeb76a3fb.png)
+![Screenshot (349)](https://user-images.githubusercontent.com/80479635/161206127-20720ffc-6d4b-403c-9729-dc670d25fca0.png)
+![Screenshot (350)](https://user-images.githubusercontent.com/80479635/161206134-553b4b43-d6b3-4738-b413-b4727615973a.png)
+![Screenshot (351)](https://user-images.githubusercontent.com/80479635/161206149-dbabcaf4-77cc-478c-80e3-c3aa6b164181.png)
+![Screenshot (352)](https://user-images.githubusercontent.com/80479635/161206155-3b78329f-a7a0-4c31-9890-0e1ed3757d65.png)
+![Screenshot (353)](https://user-images.githubusercontent.com/80479635/161206165-902ce9ce-8f20-4bf5-a79b-6a6a94452689.png)
+![Screenshot (354)](https://user-images.githubusercontent.com/80479635/161206174-d2b25308-1025-4d07-9dab-41d0e4c79c18.png)
+![Screenshot (355)](https://user-images.githubusercontent.com/80479635/161206181-a90efba8-2723-4a06-ae77-3ac445815bed.png)
+![Screenshot (356)](https://user-images.githubusercontent.com/80479635/161206195-db619b4e-6a0b-438e-b694-7151d0638dfc.png)
+![Screenshot (357)](https://user-images.githubusercontent.com/80479635/161206204-7904199a-5984-45e4-9cec-16759e8e36c7.png)
+![Screenshot (358)](https://user-images.githubusercontent.com/80479635/161206222-080db19e-61eb-4eed-a5e9-96d53f7f6d96.png)
+![Screenshot (359)](https://user-images.githubusercontent.com/80479635/161206231-3067bd8a-eec8-4b3e-848f-a670cb3491cb.png)
 
 ### Json server of E-commerce website
 https://json-server-e-commerce-api.herokuapp.com/
